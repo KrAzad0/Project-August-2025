@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+authors:
+  - family-names: Azad
+    given-names: Kumar
+    affiliation: "Research Scholar, Physics"
+title: "Project August 2025: Research Notebook"
+date-released: 2025-08-01
+version: 1.0.0
+type: software
+license: MIT
+url: "https://github.com/KrAzad0/Project-August-2025"
+repository-code: "https://github.com/KrAzad0/Project-August-2025"
+keywords:
+  - "research"
+  - "jupyter"
+  - "physics"
+abstract: "Research notebook for August 2025 project work in Jupyter format."
